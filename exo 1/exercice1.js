@@ -6,11 +6,3 @@ function changeText() {
 }
 
 catPic.addEventListener("mousemove", changeText);
-
-
-
-
-
-
-
-
