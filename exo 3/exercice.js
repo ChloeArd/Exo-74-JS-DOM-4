@@ -11,6 +11,8 @@ let libIt = function() {
     storyDiv.innerHTML = "J'ai manger un(e) " + noun + " c'était " + adjective + " et il s'appelait " + name + " .";
 };
 
+
+
 libButton.addEventListener('click', libIt);
 
 
