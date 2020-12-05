@@ -12,39 +12,3 @@ let libIt = function() {
 
 libButton.addEventListener('click', libIt);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-getComputedStyle()
-
-
-
-
-
-
-
